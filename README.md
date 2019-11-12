@@ -9,7 +9,7 @@ This is a simple application providing REST API to get a result.
 $ npm install
 ```
 
-##REST API
+## REST API
 
 The REST API to the application is described below.
 
